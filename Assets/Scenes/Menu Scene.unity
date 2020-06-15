@@ -96,7 +96,6 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
-    m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -147,16 +146,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 122231384}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0ccaccdf9bc30154c98502500929cb4a, type: 3}
+  m_Script: {fileID: 11500000, guid: 19220ecd5879e9e44bad1693b49c0293, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MainMenuPrefab: {fileID: 7882747237798159368, guid: 545b3ce20b41dda47af98046c484a9b9,
+  MainMenuPrefab: {fileID: 7882747237798159368, guid: 018e553f473101949b06fbd4f0046c30,
     type: 3}
-  GameMenuPrefab: {fileID: 1039224902582962324, guid: dd390219881d68e4aa92f9c91b47fa3d,
+  GameMenuPrefab: {fileID: 1039224902582962324, guid: 5b5990166985a9f42a348d4784e3e225,
     type: 3}
-  PauseMenuPrefab: {fileID: 1741990873306012386, guid: d4aa8e985f932104696ee2d9e9a7517a,
-    type: 3}
-  GameOverMenuPrefab: {fileID: 5924204345110003053, guid: 2856560b9a026b24cb4d6ba77fad378b,
+  PauseMenuPrefab: {fileID: 1741990873306012386, guid: f4a296d9fadca4f42809819e55017784,
     type: 3}
 --- !u!4 &122231386
 Transform:

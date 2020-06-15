@@ -46,7 +46,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -71,7 +70,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 32af48cc5bf781c439973f72f01d50b3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 53ee4d9b279b95a43af2d33a902147de, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -91,7 +90,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2491543495390084795}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: da9f925c9a9dc0546b43d3470e77b8ba, type: 3}
+  m_Script: {fileID: 11500000, guid: 369464918cf87c447bd7e415dd32a111, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _xIndex: 0
